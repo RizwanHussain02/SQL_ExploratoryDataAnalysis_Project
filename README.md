@@ -26,7 +26,7 @@ This repository demonstrates how to use **pure SQL** to:
 ---
 
 ## 📊 SQL EDA Workflow
-![](EDA diagram.jpg)
+![](sql_eda_workflow.jpg)
 
 
 ## 🧹 Data Cleaning (SQL)
