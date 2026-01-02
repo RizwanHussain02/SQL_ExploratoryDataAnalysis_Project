@@ -1,6 +1,6 @@
 # 📊 SQL Exploratory Data Analysis (EDA) Project
 
-Welcome to the **SQL Exploratory Data Analysis Project** — a hands-on project focused on performing **EDA using Microsoft SQL Server**.  
+**WELCOME** to the **SQL Exploratory Data Analysis Project** — a hands-on project focused on performing **EDA using Microsoft SQL Server**.  
 It covers **data cleaning**, **data transformation**, and **insightful analysis** through SQL queries to uncover **hidden patterns**, **business trends**, and **actionable insights**.
 
 ---
